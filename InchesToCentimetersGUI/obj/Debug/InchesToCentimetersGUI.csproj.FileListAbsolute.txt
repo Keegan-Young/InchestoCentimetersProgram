@@ -1,0 +1,9 @@
+C:\Users\deadlyfox\Desktop\C# Class\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.exe.config
+C:\Users\deadlyfox\Desktop\C# Class\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.exe
+C:\Users\deadlyfox\Desktop\C# Class\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.pdb
+C:\Users\deadlyfox\Desktop\C# Class\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csprojAssemblyReference.cache
+C:\Users\deadlyfox\Desktop\C# Class\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.Properties.Resources.resources
+C:\Users\deadlyfox\Desktop\C# Class\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csproj.GenerateResource.cache
+C:\Users\deadlyfox\Desktop\C# Class\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.exe
+C:\Users\deadlyfox\Desktop\C# Class\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.pdb
+C:\Users\deadlyfox\Desktop\C# Class\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.InchesToCentimetrsGUI.resources
